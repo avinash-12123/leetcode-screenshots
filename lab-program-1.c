@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // for exit()
+#include <stdlib.h> 
 
 #define SIZE 10
 
@@ -96,3 +96,4 @@ void peek()
     else
         printf("Stack is empty. Nothing to peek!\n");
 }
+
